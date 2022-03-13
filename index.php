@@ -8,21 +8,13 @@
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
     <title>Peindia Live - News Protal</title>
 
-    <!-- themify Icon CSS -->
     <link rel="stylesheet" href="css/themify-icons.css">
-    <!-- Animate CSS -->
     <link rel="stylesheet" href="css/animate.min.css">
-    <!-- Elegant Icons CSS -->
     <link rel="stylesheet" href="css/elegant-line-icons.css">
-    <!-- Bootsrtap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!-- Owl Carousel CSS -->
     <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <!-- Meanmenu CSS -->
     <link rel="stylesheet" href="css/meanmenu.css">
-    <!-- Swipebox CSS -->
     <link rel="stylesheet" href="css/swipebox.min.css">
-    <!-- Theme CSS -->
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/style.css">
