@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
-    <title>PeindiaNews - News Protal</title>
+    <title>Peindia Live - News Protal</title>
 
     <!-- themify Icon CSS -->
     <link rel="stylesheet" href="css/themify-icons.css">
